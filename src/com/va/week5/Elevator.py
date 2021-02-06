@@ -32,6 +32,3 @@ class Elevator:
         else:
             self.current = floor
         return self.current
-
-
-#elevator = Elevator(-1, 10, 0)
